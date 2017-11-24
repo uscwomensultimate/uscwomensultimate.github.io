@@ -2049,6 +2049,10 @@
 			margin: 0;
 		}
 
+		.leadership ul li {
+			padding-bottom: 2em;
+		}
+
 /* Icons */
 
 	.icon {
