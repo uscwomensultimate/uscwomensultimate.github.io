@@ -239,6 +239,9 @@
 							reelWidth = $reel[0].scrollWidth;
 							$t._update();
 						}).trigger('resize');
+                        
+                    //Arrow Scroll.
+                        
 
 					});
 
