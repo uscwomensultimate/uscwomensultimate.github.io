@@ -1647,7 +1647,7 @@
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 	}
 
-		a:hover {
+    a:hover {
 			color: #FF69B4;
 			border-bottom-color: transparent;
 		}
@@ -2130,7 +2130,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header4.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
