@@ -539,3 +539,28 @@ a.link:hover {
 #mainwrapper .box:hover .fade-caption, #mainwrapper .box:hover .scale-caption  {
     opacity: 1;
 }
+
+/** Link colors **/
+a:link {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
