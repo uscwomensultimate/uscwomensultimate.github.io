@@ -2130,7 +2130,8 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		/* background-image: url("../../images/header.jpg"); */
+		background-image: url("../../images/Collage.gif");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2235,7 +2236,7 @@
 
 	#header-other {
 		position: relative;
-		background-image: url("../../images/header1.jpg");
+		background-image: url("../../images/Collage.gif");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
